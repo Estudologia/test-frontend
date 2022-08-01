@@ -20,3 +20,9 @@ Esse teste será focado em um fluxo de respostas dissertativas onde teremos:
   - Deverá ter uma mensagem de obrigado;
   - Opcionalmente poderá ter um indicativo de duração total da prova;
   - Deverá aparecer as respostas não editáveis que o aluno respondeu.
+
+[Link para o layout das telas]
+
+### Ao final do teste você deverá zipar o projeto e nos enviar por WhatsApp
+
+[link para o layout das telas]: https://www.figma.com/file/u3eJVWwFI11YKU7OJWdUum/%5B-Estudologia-%5D-Test-Frontend?node-id=0%3A1
