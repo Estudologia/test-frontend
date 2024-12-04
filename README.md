@@ -1,5 +1,8 @@
 # Teste para a vaga de frontend da Estudologia.
 
+Tecnologias que deverão ser utilizadas: Next14 e Typescript.
+Recomendamos o uso do MUI Material para criação da interface.
+
 Esse teste será focado em um fluxo de respostas dissertativas onde teremos:
 
 - Listagem de cadernos de questões
